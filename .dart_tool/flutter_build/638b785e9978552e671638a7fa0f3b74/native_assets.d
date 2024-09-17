@@ -1,0 +1,1 @@
+ D:\\vscode\\fluter\ projects\\calculator1\\.dart_tool\\flutter_build\\638b785e9978552e671638a7fa0f3b74\\native_assets.yaml: 
